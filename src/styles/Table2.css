@@ -1,0 +1,14 @@
+.tableTop{
+  
+    height: 167px;
+   width: 105%;
+text-align: left;
+    display: flex;
+    margin-left: -43px;
+
+    border: 0.5px solid grey;
+
+}
+p{
+    border-bottom-color: 1px solid aqua;
+}
